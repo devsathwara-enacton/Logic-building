@@ -40,20 +40,17 @@
  */
 var numOfPairs = function (nums, target) {
   let count = 0;
-  for (i = 0; i < nums.length; i++) {
-    for (j = i + 1; j < nums.length; j++) {
-      let str = nums[i] + nums[j];
-      let revStr = "";
-      for (let i = str.length - 1; i >= 0; i--) {
-        revStr += str[i];
-      }
-      if (str === target) {
-        count++;
-      }
-      if (revStr === target) {
-        count++;
+
+  for (let i = 0; i < nums.length; i++) {
+    for (let j = 0; j < nums.length; j++) {
+      if (i !== j) {
+        let str = nums[i] + nums[j];
+        if (str === target) {
+          count++;
+        }
       }
     }
   }
+
   return count;
 };

@@ -36,7 +36,7 @@ var haveConflict = function (event1, event2) {
   let event1hr = [];
   let event2hr = [];
   let countTrue = 0;
-  let countfalse = 0;
+  let countFalse = 0;
   for (i = 0; i < event1.length; i++) {
     const hours = parseInt(event1[i].split(":")[0]);
     event1hr.push(hours);
@@ -51,7 +51,7 @@ var haveConflict = function (event1, event2) {
       if (event1hr[i] == event2hr[j]) {
         countTrue++;
       } else {
-        countfalse++;
+        countFalse++;
       }
     }
   }

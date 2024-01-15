@@ -25,5 +25,9 @@ var largestNumber = function (nums) {
     return option2.localeCompare(option1);
   });
   const result = numString.join("");
+  if (/^0+$/.test(result)) {
+    return "0";
+  }
+
   return result;
 };

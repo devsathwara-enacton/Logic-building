@@ -22,3 +22,16 @@
 - [Problem 7: Largest Number](https://leetcode.com/problems/largest-number/)
 - [Problem 8:Ones and Zeroes ](https://leetcode.com/problems/ones-and-zeroes/description/)
 - [Problem 9:Minimum Deletions to Make Array Beautiful ](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description/)
+
+### Day 2:
+
+### Easy
+
+- [Problem 10: Check If Two String Arrays are Equivalent ](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
+- [Problem 11: Count Common Words With One Occurrence ](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/)
+- [Problem 12:Most Common Word ](https://leetcode.com/problems/most-common-word/description/)
+
+### Medium
+
+- [Problem 13: Find Players With Zero or One Losses ](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
+- [Problem 14: Maximum Product of Word Lengths ](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
