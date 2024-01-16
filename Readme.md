@@ -35,3 +35,17 @@
 
 - [Problem 13: Find Players With Zero or One Losses ](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 - [Problem 14: Maximum Product of Word Lengths ](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
+
+### Day3
+
+#### Easy
+
+- [Problem 16 :Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)
+- [Problem 17 :String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)
+- [Problem 18 :Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+
+### Medium
+
+- [Problem 19: Minimum Index Sum of Two Lists ](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+- [Problem 20: Minimum Time Difference ](https://leetcode.com/problems/minimum-time-difference/description/)
+- [Problem 21: Print Words Vertically ](https://leetcode.com/problems/print-words-vertically/description/)
