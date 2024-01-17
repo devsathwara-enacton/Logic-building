@@ -49,3 +49,25 @@
 - [Problem 19: Minimum Index Sum of Two Lists ](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 - [Problem 20: Minimum Time Difference ](https://leetcode.com/problems/minimum-time-difference/description/)
 - [Problem 21: Print Words Vertically ](https://leetcode.com/problems/print-words-vertically/description/)
+
+### Day 4
+
+### Easy
+
+- [Problem 22: Unique Number of Occurrences ](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+- [Problem 23: Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
+- [Problem 24:Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [Problem 25:Single Number](https://leetcode.com/problems/single-number/description/)
+- [Problem 26:Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+- [Problem 27:Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- [Problem 28:Missing Number)](https://leetcode.com/problems/missing-number/description/)
+- [Problem 29:Merge Sorted Array)](https://leetcode.com/problems/merge-sorted-array/description/)
+
+### Medium
+
+- [Problem 30:Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+- [Problem 31:Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+### Hard
+
+- [Problem 31:Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
