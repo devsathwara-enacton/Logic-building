@@ -71,3 +71,26 @@
 ### Hard
 
 - [Problem 31:Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+### Day 5
+
+### Advent Of Code Problems:
+
+- [--- Day 1: Not Quite Lisp ---](https://adventofcode.com/2015/day/1)
+
+### CodeForce Problems:
+
+- [71A-A. Way Too Long Words(800)](https://codeforces.com/problemset/problem/71/A)
+
+### Day 6
+
+### Easy
+
+- [Problem 32: Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+- [Problem 33: Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+- [Problem 34: Plus One](https://leetcode.com/problems/plus-one/)
+- [Problem 35:Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+
+### Medium
+
+- [Problem 3:Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
